@@ -29,6 +29,7 @@ execute o projeto escrevendo: 'npm run start'
 
 Va no seu navegador no seguinte caminho: 'http://localhost:3000'
 ```
+Caso deseja retornar para a página inicial, basta clicar na logo no topo da página
 
 # Autor 
 Cristopher Cristian Gomes Teixeira
