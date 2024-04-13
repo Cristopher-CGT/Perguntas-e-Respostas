@@ -5,16 +5,17 @@ Este é o primeiro projeto criado nesta formação utilizando o Node.js
 
 Perguntas e Respostas consiste na proposta de uma pessoa fazer perguntas de maneira anônima e outros usuários poderem responder essas perguntas também de forma anônima
 
-
 # Tecnologias utilizadas no projeto
+
 ## Front-End
-- HTML
+
+- EJS
 - CSS / Bootstrap
 - JavaScript
 
 ## Back-End
-- JavaScript / Node.JS
 
+- JavaScript / Node.JS
 
 # Como executar o projeto
 
@@ -29,9 +30,11 @@ execute o projeto escrevendo: 'npm run start'
 
 Va no seu navegador no seguinte caminho: 'http://localhost:3000'
 ```
+
 Caso deseja retornar para a página inicial, basta clicar na logo no topo da página
 
-# Autor 
+# Autor
+
 Cristopher Cristian Gomes Teixeira
 
 https://www.linkedin.com/in/cristopher-teixeira-30203b203/
