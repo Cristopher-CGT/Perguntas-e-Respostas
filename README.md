@@ -19,7 +19,7 @@ Perguntas e Respostas consiste na proposta de uma pessoa fazer perguntas de mane
 
 # Como executar o projeto
 
-Pré-requisitos: MySQL (Necessário criar um banco de dados para utilizar o projeto e o MySQL Workbench)
+Pré-requisitos: MySQL (Necessário criar um banco de dados para utilizar o projeto e o MySQL Workbench e realize as devidas alterações no arquivo "database.js")
 
 ```bash
 Faça o download do projeto ou de o comando git clone
