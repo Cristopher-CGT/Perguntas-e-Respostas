@@ -1,6 +1,5 @@
 const express = require("express");
 const server = express();
-const bodyParser = require("body-parser");
 
 const perguntaModel = require("./database/Perguntas");
 const respostaModel = require("./database/Resposta");
@@ -13,8 +12,8 @@ connect(connection);
 server.set("view engine", "ejs");
 server.use(express.static("public"));
 
-server.use(bodyParser.urlencoded({ extended: false }));
-server.use(bodyParser.json());
+server.use(express.urlencoded({ extended: false }));
+server.use(express.json());
 
 // Pagina principal
 server.get("/", async (req, res) => {
